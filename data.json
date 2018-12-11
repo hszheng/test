@@ -1,0 +1,4 @@
+export default {
+  'title': 'manager',
+  'name': 'vincent'
+}
